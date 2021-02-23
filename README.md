@@ -1,16 +1,16 @@
+## MARCOS GUILHERME
+
 ### Hi there 👋
 
-<!--
-**mguilherm/mguilherm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br/> 📸 O fotógrafo brasiliense que se meteu no Design 🖌️ e é estudante de Análise e Desenvolvimento de Sistemas. ⚙️
+<br/> Foquei meus estudos no desenvolvimento Front-End. 🖥️
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/><br/> 👨‍💻 Estou me especializando em: JavaScript, HTML, CSS, React, Vue e Angular.
+<br/>Vamos conversar! 😁
+<br/> [![Linkedin Badge](https://img.shields.io/badge/-MarcosGuilherme-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcos-guilherme-barbosa-da-silva-8313121a4/)](https://www.linkedin.com/in/marcos-guilherme-barbosa-da-silva-8313121a4/)
+
+
+
+
+
